@@ -1,4 +1,4 @@
-#Made by Ethan Doss-Fillmore for educational and personal purposes
+#Made by Eden Doss-Fillmore for educational and personal purposes
 from Tweepy import tweet
 from selenium import webdriver
 
